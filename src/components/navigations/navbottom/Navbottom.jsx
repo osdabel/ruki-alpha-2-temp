@@ -18,7 +18,7 @@ const Navbottom = () => {
             <Icon size={35} fill={0} weight={200} icon="circle" name="OSIS"/>
         </Link>
         <Link href={"/soon"}>
-            <Icon size={35} fill={0} weight={200} icon="account_circle" name="Profil"/>
+            <Icon size={35} fill={0} weight={200} icon="account_circle" name="Soon"/>
         </Link>
         </div>
         </>
